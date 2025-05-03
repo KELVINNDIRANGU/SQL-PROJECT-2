@@ -1,1 +1,1 @@
-# SQL-PROJECT-2
+# SQL-PROJECT-Student Course Management System
